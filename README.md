@@ -7,7 +7,7 @@ MFRTX is a local driver solution designed to enable Metal API support on NVIDIA 
 * **NVIDIA RTX 20-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-blue?style=for-the-badge&logo=nvidia)
 * **NVIDIA RTX 30-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-blue?style=for-the-badge&logo=nvidia) 
 * **NVIDIA RTX 40-Series:** ![Alternatif Metin](https://img.shields.io/badge/Up_to_RTX_4090-blue?style=for-the-badge&logo=nvidia).
-
+* **NVIDIA RTX 50-Series:** ![Alternatif Metin](https://img.shields.io/badge/NO_SUPPORT_(for_now)-blue?style=for-the-badge&logo=nvidia)
 * **UNSUPPORTED:** NVIDIA RTX 40 series SUPER/SUPER Ti/Ti graphics cards are not supported due to architecture-specific hardware locks.
 
 ## Components
