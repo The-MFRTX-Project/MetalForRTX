@@ -2,6 +2,8 @@
 
 MFRTX is a local driver solution designed to enable Metal API support on NVIDIA hardware for both Windows and macOS (Hackintosh) environments. This suite provides the necessary kernel-level binaries to facilitate Metal shader execution without requiring an active internet connection.
 
+[![Version](https://img.shields.io/badge/Version-v0.0.1--Closed_Dev_Beta-007ACC?style=for-the-badge)](https://github.com/)
+[![Servers Status](https://img.shields.io/badge/MFRTX%20SERVERS-DOWN-crimson?style=for-the-badge&logo=statuspage)](https://github.com/)
 ## Hardware Support
 * **NVIDIA GTX Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS_RELEASED_AFTER_2018-yellow?style=for-the-badge&logo=nvidia).
 * **NVIDIA RTX 20-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=nvidia)
