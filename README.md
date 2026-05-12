@@ -16,10 +16,8 @@ MFRTX is a local driver solution designed to enable Metal API support on NVIDIA 
 ## Installation Process
 
 ### Windows Deployment
-1. Run `MFRTX_Setup.exe` with Administrator privileges.
-2. The installer will perform a local hardware ID (HWID) scan.
-3. Metal-to-NVIDIA microcode will be extracted to the system drivers directory.
-4. The setup will register the MFRTX service to initialize upon every system boot.
+1. Run `MFRTX_Setup.exe`.
+2. Follow the steps on the screen.
 
 ### macOS Configuration
 1. Copy `mfrtx.kext` to your EFI partition (`/EFI/OC/Kexts`).
