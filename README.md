@@ -1,4 +1,4 @@
-# MFRTX Driver Suite
+# MFRTX
 
 MFRTX is a local driver solution designed to enable Metal API support on NVIDIA hardware for both Windows and macOS (Hackintosh) environments. This suite provides the necessary kernel-level binaries to facilitate Metal shader execution without requiring an active internet connection.
 
