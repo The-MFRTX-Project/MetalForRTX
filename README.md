@@ -8,9 +8,9 @@ MFRTX is a local driver solution designed to enable Metal API support on NVIDIA 
 * **NVIDIA GTX Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS_RELEASED_AFTER_2018-yellow?style=for-the-badge&logo=nvidia).
 * **NVIDIA RTX 20-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=nvidia)
 * **NVIDIA RTX 30-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=nvidia) 
-* **NVIDIA RTX 40-Series:** ![Alternatif Metin](https://img.shields.io/badge/Up_to_RTX_4090*-yellow?style=for-the-badge&logo=nvidia).
-* **NVIDIA RTX 50-Series:** ![Alternatif Metin](https://img.shields.io/badge/NO_SUPPORT_(for_now)-crimson?style=for-the-badge&logo=nvidia)
-* *NVIDIA RTX 40 series SUPER/SUPER Ti/Ti graphics cards are not supported due to architecture-specific hardware locks.
+* **NVIDIA RTX 40-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=nvidia).
+* **NVIDIA RTX 50-Series:** ![Alternatif Metin](https://img.shields.io/badge/UP_TO_RTX_5090*-yellow?style=for-the-badge&logo=nvidia)
+* *NVIDIA RTX 50 series SUPER/SUPER Ti/Ti graphics cards are not supported due to architecture-specific hardware locks.
 
 ## Installation Process
 
