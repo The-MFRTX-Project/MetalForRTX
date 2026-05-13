@@ -14,16 +14,10 @@ MFRTX is a local driver solution designed to enable Metal API support on NVIDIA 
 
 ## Components
 1. **MFRTX_Setup.exe:** Standalone Windows driver installer. Contains pre-compiled shader libraries and kernel binaries.
-2. **mfrtx.kext:** macOS Kernel Extension for Hackintosh environments. Required for Metal framework recognition.
+2. **mfrtx.kext:** (NOT RELEASED YET) macOS Kernel Extension for Hackintosh environments. Required for Metal framework recognition.
 
 ## Installation Process
 
 ### Windows Deployment
 1. Run `MFRTX_Setup.exe`.
 2. Follow the steps on the screen.
-
-### macOS Configuration
-1. Copy `mfrtx.kext` to your EFI partition (`/EFI/OC/Kexts`).
-2. Add the kext entry to your `config.plist` under the Kernel section.
-3. Ensure `DisableIoMapper` is configured correctly to avoid conflicts with the MFRTX memory mapping.
-4. **IMPORTANT:** You must create a folder named `MFRTX` (case sensitive) in the root of your `/EFI/` directory.
