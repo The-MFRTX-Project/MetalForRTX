@@ -1,6 +1,6 @@
 # MFRTX
 
-## We heard the problems with the MFRTX installer file. We're trying to fix it as soon as possible. It will be fixed in 12-24 hours. Thanks for your patience.
+## We heard the problems with the MFRTX installer file. We're trying to fix it as soon as possible. It will be fixed in 14 May (Tomorrow). Thanks for your patience.
 
 MFRTX is a local driver solution designed to enable Metal API support on NVIDIA hardware for Windows. And maybe **Hackintoshes**? (Coming soon to Hackintosh...)
 
