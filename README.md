@@ -14,7 +14,7 @@ MFRTX is a local driver solution designed to enable Metal API support on NVIDIA 
 
 ## Components
 1. **MFRTX_Setup.exe:** Standalone Windows driver installer. Contains pre-compiled shader libraries and kernel binaries.
-2. **mfrtx.kext:** (NOT RELEASED YET) macOS Kernel Extension for Hackintosh environments. Required for Metal framework recognition.
+2. _mfrtx.kext_: **_(NOT RELEASED YET)_** macOS Kernel Extension for Hackintosh environments. Required for Metal framework recognition.
 
 ## Installation Process
 
