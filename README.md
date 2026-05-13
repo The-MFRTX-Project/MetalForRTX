@@ -1,6 +1,6 @@
 # MFRTX
 
-MFRTX is a local driver solution designed to enable Metal API support on NVIDIA hardware for Windows. And maybe **Hackintoshes**? *( COMING SOON TO (HACK)INTOSH )*
+MFRTX is a local driver solution designed to enable Metal API support on NVIDIA hardware for Windows. And maybe **Hackintoshes**? (Coming soon to Hackintosh...)
 
 [![Version](https://img.shields.io/badge/Version-v0.0.1--Closed_Dev_Beta-007ACC?style=for-the-badge)](https://github.com/)
 [![Servers Status](https://img.shields.io/badge/MFRTX%20SERVERS-DOWN-crimson?style=for-the-badge&logo=statuspage)](https://github.com/)
@@ -11,10 +11,6 @@ MFRTX is a local driver solution designed to enable Metal API support on NVIDIA 
 * **NVIDIA RTX 40-Series:** ![Alternatif Metin](https://img.shields.io/badge/Up_to_RTX_4090*-yellow?style=for-the-badge&logo=nvidia).
 * **NVIDIA RTX 50-Series:** ![Alternatif Metin](https://img.shields.io/badge/NO_SUPPORT_(for_now)-crimson?style=for-the-badge&logo=nvidia)
 * *NVIDIA RTX 40 series SUPER/SUPER Ti/Ti graphics cards are not supported due to architecture-specific hardware locks.
-
-## Components
-1. **MFRTX_Setup.exe:** Standalone Windows driver installer. Contains pre-compiled shader libraries and kernel binaries.
-2. _mfrtx.kext_: **_(NOT RELEASED YET)_** macOS Kernel Extension for Hackintosh environments. Required for Metal framework recognition.
 
 ## Installation Process
 
