@@ -9,12 +9,11 @@ MFRTX is a local driver solution designed to enable Metal API support on NVIDIA 
 [![Version](https://img.shields.io/badge/Version-v1.0.0--Public_Beta-007ACC?style=for-the-badge)](https://github.com/)
 [![Servers Status](https://img.shields.io/badge/MFRTX%20SERVERS-IN_MAINTENANCE/UNREACHABLE-orange?style=for-the-badge&logo=statuspage)](https://github.com/)
 ## Hardware Support
-* **NVIDIA GTX Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS_RELEASED_AFTER_2018-yellow?style=for-the-badge&logo=nvidia).
-* **NVIDIA RTX 20-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=nvidia)
-* **NVIDIA RTX 30-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=nvidia) 
-* **NVIDIA RTX 40-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=nvidia).
-* **NVIDIA RTX 50-Series:** ![Alternatif Metin](https://img.shields.io/badge/UP_TO_RTX_5090*-yellow?style=for-the-badge&logo=nvidia)
-* *NVIDIA RTX 50 series SUPER/SUPER Ti/Ti graphics cards are not supported due to architecture-specific hardware locks.
+* **NVIDIA GTX Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS_RELEASED_AFTER_2018-yellow?style=for-the-badge&logo=microsoft).
+* **NVIDIA RTX 20-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=microsoft)
+* **NVIDIA RTX 30-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=microsoft) 
+* **NVIDIA RTX 40-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=microsoft).
+* **NVIDIA RTX 50-Series:** ![Alternatif Metin](https://img.shields.io/badge/ALL_MODELS-green?style=for-the-badge&logo=microsoft)
 
 ## Installation Process
 
