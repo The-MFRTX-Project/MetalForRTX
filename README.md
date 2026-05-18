@@ -1,9 +1,5 @@
 # MFRTX
 
-## We heard the problems about the MFRTX installer file. We're trying to fix it as soon as possible. It will be fixed in 14 May (Today). Thanks for your patience. 
-
-### _dumi: (Reports show that many users got Error Code: "27" which means SERVERS ARE UNREACHABLE OR DOWN. Yes. The servers are down.)_
-
 MFRTX is a local driver solution designed to enable Metal API support on NVIDIA hardware for Windows. And maybe **Hackintoshes**? (Coming soon to Hackintosh...)
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0--Public_Beta-007ACC?style=for-the-badge)](https://github.com/)
